@@ -1,4 +1,4 @@
-package OOPS.Class_Orders;
+package OOPS.Class_Objects;
 
 class CartItem {
     private String itemName;
