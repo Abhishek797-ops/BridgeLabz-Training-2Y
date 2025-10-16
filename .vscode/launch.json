@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "New",
+            "request": "launch",
+            "mainClass": "New",
+            "projectName": "BridgeLabs_7cb09487"
+        },
+        {
+            "type": "java",
+            "name": "MonthSwitch",
+            "request": "launch",
+            "mainClass": "MonthSwitch",
+            "projectName": "BridgeLabs_7cb09487"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AddTwoNumbers",
+            "request": "launch",
+            "mainClass": "AddTwoNumbers",
+            "projectName": "BridgeLabs_7cb09487"
+        },
+        {
+            "type": "java",
+            "name": "Area",
+            "request": "launch",
+            "mainClass": "Area",
+            "projectName": "BridgeLabs_7cb09487"
+        },
+        {
+            "type": "java",
+            "name": "AvgOfThree",
+            "request": "launch",
+            "mainClass": "AvgOfThree",
+            "projectName": "BridgeLabs_7cb09487"
+        },
+        {
+            "type": "java",
+            "name": "KmToMiles",
+            "request": "launch",
+            "mainClass": "KmToMiles",
+            "projectName": "BridgeLabs_7cb09487"
+        },
+        {
+            "type": "java",
+            "name": "Perimeter",
+            "request": "launch",
+            "mainClass": "Perimeter",
+            "projectName": "BridgeLabs_7cb09487"
+        },
+        {
+            "type": "java",
+            "name": "PowerCalculation",
+            "request": "launch",
+            "mainClass": "PowerCalculation",
+            "projectName": "BridgeLabs_7cb09487"
+        },
+        {
+            "type": "java",
+            "name": "SimpleInterest",
+            "request": "launch",
+            "mainClass": "SimpleInterest",
+            "projectName": "BridgeLabs_7cb09487"
+        },
+        {
+            "type": "java",
+            "name": "Temperature",
+            "request": "launch",
+            "mainClass": "Temperature",
+            "projectName": "BridgeLabs_7cb09487"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "BridgeLabs_7cb09487"
+        },
+        {
+            "type": "java",
+            "name": "Volume",
+            "request": "launch",
+            "mainClass": "Volume",
+            "projectName": "BridgeLabs_7cb09487"
+        },
+        {
+            "type": "java",
+            "name": "Welcome",
+            "request": "launch",
+            "mainClass": "Welcome",
+            "projectName": "BridgeLabs_7cb09487"
+        }
+    ]
+}
