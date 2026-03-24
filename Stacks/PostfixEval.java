@@ -1,4 +1,4 @@
-public import java.util.*;
+import java.util.*;
 
 class PostfixEval {
     public static int evaluatePostfix(String s) {
@@ -27,6 +27,4 @@ class PostfixEval {
         String exp = "231*+9-";
         System.out.println(evaluatePostfix(exp));
     }
-} {
-    
-}
+} 
