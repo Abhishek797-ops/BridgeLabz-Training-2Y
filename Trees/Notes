@@ -1,0 +1,18 @@
+a tree with n nodes will have n-1 edges(connection btw 2 nodes).
+graph is also a tree iff all the vertices are connected.
+Degree-total no of children a node has is called its degree.
+Degree of a tree is the highest value of the degree among all nodes 
+Internal nodes-the node which has atleast 1 children is called internal node
+Leaf node-the node which has no children is called leaf node.
+Levels-In tree, each step from top to bottom is called level.
+Height of a node-Longest path from that node to the leaf node (count no of edges)
+Height of tree-Longest Path from root node to the last leaf node
+Depth of a tree-It is reverse of Height 
+
+Tpes of trees-
+1.Regular tree
+2.Binary tree
+3.Binary Search tree
+
+Binary tree-In binary tree each node must have atmost 2 children.
+Binary Search tree- root > left node, root < right node
